@@ -1,0 +1,24 @@
+{
+  "name": "trabalho-ppi-ofc",
+  "version": "1.0.0",
+  "description": "Trabalho de PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBRITTOx/Trabalho-PPI-OFC.git"
+  },
+  "author": "Cristiano Ferreira da Silva Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBRITTOx/Trabalho-PPI-OFC/issues"
+  },
+  "homepage": "https://github.com/xBRITTOx/Trabalho-PPI-OFC#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
